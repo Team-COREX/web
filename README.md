@@ -146,7 +146,7 @@ This is an educational project for the CubeSat Competition 2025. For questions o
 
 ## 🔗 Links
 
-- **Running on**: [web](https://v0-spacecraft-information-hub.vercel.app)
+- **Running on**: [web](https://lambda-mission.vercel.app)
 - **GitHub Organization**: [Team-COREX](https://github.com/Team-COREX)
 - **Institution**: Universidad Tecnológica Nacional - Facultad Regional Córdoba
 - **Competition**: CubeSat Competition 2025
